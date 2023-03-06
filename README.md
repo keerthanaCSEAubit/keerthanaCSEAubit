@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @keerthanaCSEAubit
-- 👀 I’m interested in full stack
-- 🌱 I’m currently learning java and javascript
+- 👀 I’m interested in Ethical Hacking 
+- 🌱 I’m currently learning java and Machine Learning 
 - 💞️ I know the basics of c and its data structure,python,java,HTMLandCSS
 - 📫 How to reach me keerthanakumaravel2003@gmail.com
 
